@@ -1,3 +1,5 @@
+# The Super Class
+# This class contains almost all of the code responsible for communicating b/n our Ruby program and our database
 require_relative "../config/environment.rb"
 require 'active_support/inflector'
 
